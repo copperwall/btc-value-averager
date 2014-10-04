@@ -2,7 +2,6 @@
 
 This script grabs the latest BTC sell price from
 
-* Mt. Gox
 * Coinbase
 * Bitstamp
 
